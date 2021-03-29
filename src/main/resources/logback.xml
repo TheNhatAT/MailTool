@@ -17,7 +17,7 @@
         </encoder>
     </appender>
 
-    <logger name="sample" level="DEBUG">
+    <logger name="core" level="DEBUG">
         <appender-ref ref="FILE" />
     </logger>
 

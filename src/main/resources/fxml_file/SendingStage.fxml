@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.web.HTMLEditor?>
 
-<AnchorPane fx:id="sendPane" prefHeight="609.0" prefWidth="850.0" style="-fx-background-color: #eeecec;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SendStage">
+<AnchorPane fx:id="sendPane" prefHeight="609.0" prefWidth="850.0" style="-fx-background-color: #eeecec;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="core.SendStage">
     <children>
       <VBox layoutX="10.0" layoutY="14.0" prefHeight="134.0" prefWidth="80.0" spacing="10.0">
          <children>
