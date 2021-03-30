@@ -1,4 +1,6 @@
 # MailToolMaven
+Làm ngay String -> StringBuffer, StringBuilder
++ chuyển String -
 Using maven to control MailTool App
 Mục tiêu phát triển của app:
 + Ưu tiên phát triển feature cho ban Nhân Sự
